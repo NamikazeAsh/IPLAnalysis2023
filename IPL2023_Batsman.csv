@@ -1,4 +1,4 @@
-match_no,Batsman,team,Run,Ball,4s,6s,out_by
+ï»¿match_no,Batsman,team,Run,Ball,4s,6s,out_by
 1,Devon Conway,Chennai Super Kings,1,6,0,0,Mohammed Shami
 1,Ruturaj Gaikwad,Chennai Super Kings,92,50,4,9,Alzarri Joseph
 1,Moeen Ali,Chennai Super Kings,23,17,4,1,Rashid Khan
@@ -205,7 +205,7 @@ match_no,Batsman,team,Run,Ball,4s,6s,out_by
 13,Abhinav Manohar,Gujarat Titans,14,8,3,0,Suyash Sharma
 13,Vijay Shankar,Gujarat Titans,63,24,4,5,Not Out
 13,David Miller,Gujarat Titans,2,3,0,0,Not Out
-13,Rahmanullah Gurbaz ,Kolkata Knight Riders,15,12,1,1,Mohammed Shami
+13,Rahmanullah GurbazÂ ,Kolkata Knight Riders,15,12,1,1,Mohammed Shami
 13,N Jagadeesan,Kolkata Knight Riders,6,8,1,0,Joshua Little
 13,Venkatesh Iyer,Kolkata Knight Riders,83,40,8,5,Alzarri Joseph
 13,Nitish Rana,Kolkata Knight Riders,45,29,4,3,Alzarri Joseph
@@ -217,7 +217,7 @@ match_no,Batsman,team,Run,Ball,4s,6s,out_by
 14,Prabhsimran Singh,Punjab Kings,0,1,0,0,Bhuvneshwar Kumar
 14,Shikhar Dhawan,Punjab Kings,99,66,12,5,Not Out
 14,Matthew Short,Punjab Kings,1,3,0,0,Marco Jansen
-14,Jitesh Sharma ,Punjab Kings,4,9,1,0,Marco Jansen
+14,Jitesh SharmaÂ ,Punjab Kings,4,9,1,0,Marco Jansen
 14,Sam Curran,Punjab Kings,22,15,3,1,Mayank Markande
 14,Sikandar Raza,Punjab Kings,5,6,0,0,Umran Malik
 14,Shahrukh Khan,Punjab Kings,4,3,1,0,Mayank Markande
@@ -282,7 +282,7 @@ match_no,Batsman,team,Run,Ball,4s,6s,out_by
 18,Shikhar Dhawan,Punjab Kings,8,8,2,0,Joshua Little
 18,Matthew Short,Punjab Kings,36,24,6,1,Rashid Khan
 18,Bhanuka Rajapaksa,Punjab Kings,20,26,1,0,Alzarri Joseph
-18,Jitesh Sharma ,Punjab Kings,25,23,5,0,Mohit Sharma
+18,Jitesh SharmaÂ ,Punjab Kings,25,23,5,0,Mohit Sharma
 18,Sam Curran,Punjab Kings,22,22,1,1,Mohit Sharma
 18,Shahrukh Khan,Punjab Kings,22,9,1,2,Run Out
 18,Harpreet Brar,Punjab Kings,8,5,0,1,Not Out
@@ -299,7 +299,7 @@ match_no,Batsman,team,Run,Ball,4s,6s,out_by
 19,Aiden Markram,Sunrisers Hyderabad,50,26,2,5,Varun Chakaravarthy
 19,Abhishek Sharma,Sunrisers Hyderabad,32,17,3,2,Andre Russell
 19,Heinrich Klaasen,Sunrisers Hyderabad,16,6,2,1,Not Out
-19,Rahmanullah Gurbaz ,Kolkata Knight Riders,0,3,0,0,Bhuvneshwar Kumar
+19,Rahmanullah GurbazÂ ,Kolkata Knight Riders,0,3,0,0,Bhuvneshwar Kumar
 19,N Jagadeesan,Kolkata Knight Riders,36,21,5,1,Mayank Markande
 19,Venkatesh Iyer,Kolkata Knight Riders,10,11,2,0,Marco Jansen
 19,Sunil Narine,Kolkata Knight Riders,0,1,0,0,Marco Jansen
@@ -347,7 +347,7 @@ match_no,Batsman,team,Run,Ball,4s,6s,out_by
 21,Shahrukh Khan,Punjab Kings,23,10,1,2,Not Out
 21,Harpreet Brar,Punjab Kings,6,4,1,0,Mark Wood
 21,Kagiso Rabada,Punjab Kings,0,1,0,0,Not Out
-22,Rahmanullah Gurbaz ,Kolkata Knight Riders,8,12,0,0,Piyush Chawla
+22,Rahmanullah GurbazÂ ,Kolkata Knight Riders,8,12,0,0,Piyush Chawla
 22,N Jagadeesan,Kolkata Knight Riders,0,5,0,0,Cameron Green
 22,Venkatesh Iyer,Kolkata Knight Riders,104,51,6,9,Riley Meredith
 22,Nitish Rana,Kolkata Knight Riders,5,10,0,0,Hrithik Shokeen
